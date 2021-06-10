@@ -1,6 +1,8 @@
-package com.personalProject.demo;
+package com.personalProject.demo.Factory;
 
 import com.personalProject.demo.Entity.Report;
+import com.personalProject.demo.Util.GenerateDate;
+import com.personalProject.demo.Util.GenerateID;
 
 import java.time.LocalDate;
 

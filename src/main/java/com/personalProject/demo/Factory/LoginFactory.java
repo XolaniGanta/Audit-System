@@ -1,6 +1,7 @@
-package com.personalProject.demo;
+package com.personalProject.demo.Factory;
 
 import com.personalProject.demo.Entity.Login;
+import com.personalProject.demo.Util.GenerateID;
 
 public class LoginFactory
 {

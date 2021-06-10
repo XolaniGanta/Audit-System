@@ -1,6 +1,7 @@
-package com.personalProject.demo;
+package com.personalProject.demo.Factory;
 
 import com.personalProject.demo.Entity.Auditor;
+import com.personalProject.demo.Util.GenerateID;
 
 public class AuditorFactory {
 

@@ -1,4 +1,4 @@
-package com.personalProject.demo;
+package com.personalProject.demo.Util;
 
 import java.util.UUID;
 
