@@ -18,14 +18,14 @@ public class AuditorFactoryTest {
     // tests if the user did put in name correctly
     @Test
     public void createAuditorName() {
-        Auditor auditor = AuditorFactory.createAuditor("Xolani", "Xolani", "0824338970");
+        Auditor auditor = AuditorFactory.createAuditor("Xolani", "Ganta", "0824338970");
         Assert.assertEquals("Xolani", auditor.getAuditorFirstName());
     }
 
     // tests if the user did put in surname
     @Test
     public void createAuditorSurname() {
-        Auditor auditor = AuditorFactory.createAuditor("Xolani", "Xolani", "0824338970");
+        Auditor auditor = AuditorFactory.createAuditor("Xolani", "Ganta", "0824338970");
         Assert.assertEquals("Ganta", auditor.getAuditorSurname());
     }
 
